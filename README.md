@@ -1,16 +1,138 @@
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
-A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
-
-reveal.js comes with a broad range of features including [nested slides](https://github.com/hakimel/reveal.js#markup), [Markdown contents](https://github.com/hakimel/reveal.js#markdown), [PDF export](https://github.com/hakimel/reveal.js#pdf-export), [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](https://github.com/hakimel/reveal.js#api). It's best viewed in a modern browser but [fallbacks](https://github.com/hakimel/reveal.js/wiki/Browser-Support) are available to make sure your presentation can still be viewed elsewhere.
+What will you learn
 
 
 #### More reading:
-- [Installation](#installation): Step-by-step instructions for getting reveal.js running on your computer.
-- [Changelog](https://github.com/hakimel/reveal.js/releases): Up-to-date version history.
-- [Examples](https://github.com/hakimel/reveal.js/wiki/Example-Presentations): Presentations created with reveal.js, add your own!
-- [Browser Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support): Explanation of browser support and fallbacks.
-- [Plugins](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
+1:- Introduction
+• Understanding of what is ERP Systems
+• Introduction to SAP
+2:- Organizational Structure
+• Defining company
+• Configuring company code
+• Defining business area
+• Assigning company code to company
+3:- Financial accounting global settings
+• Maintaining fiscal year variant
+• Assigning fiscal year variant to company code
+• Defining posting periods
+• Defining open and close posting periods
+• Assigning variant to company code
+• Document types and Parameters
+• Defining document number ranges
+• Defining SAP posting keys
+• Defining field status variant
+• Assigning field status variant to company code
+• Defining tolerance groups for employees
+4:- General ledger accounting
+• Defining chart of accounts
+• Assigning chart of accounts to company code
+• Defining account groups
+• Defining retained earnings account
+• Maintain Field status variant for General ledger
+• Creating GL accounts
+• Set up Tolerance for postings
+• Postings
+• Park/Hold the document
+• Reversal entries
+• Document change control
+5:- Accounts Receivable
+• Creating customer groups
+• Field validation for Groups
+• Creating number ranges
+• Assigning number ranges to customer groups
+• Creating customer
+• Change customer details
+• Display customer details and Balances
+• Raising sales invoice
+• Incoming payments
+• Cash discounts
+• Down payment
+• Bank Guarantee
+• Interest calculation
+• Credit memo
+• Dunning procedure and executing dunning run
+6:- Accounts payable
+• Creating vendor groups
+• Creating vendor ranges
+• Creating ranges to vendor groups
+• Creating vendor
+• Change Vendor details
+• Display Vendor and Balance
+• Raising vendor invoice
+• Outgoing payments
+• APP ( Automatic Payment Programme)
+• Cash discounts/Terms of Payment
+• Interest calculation
+• Down payment
+• Bank Guarantee
+• Debit memo
+7:- Bank Accounts
+• Creating house bank
+• Configuring petty cash journal
+• Configuring automatic payment to vendors
+8:- Tax
+• Define country tax procedure
+• Define calculation procedure
+• Assignee calculation procedure
+• Base amount settings
+• Exempt Tax codes and reasons for the same.
+• Creating GL accounts of input tax output tax and sales tax
+• Configuration for tax calculation Postings
+9:- Foreign currency
+• Exchange Rate Difference General Ledger for Foreign currency document posting
+• SAP Netweaver with Currency setting.
+• Currency translation ratio
+• Defining, changing and maintaining exchange rate ratios
+• Overview of realised and unrealised profit and loss
+10:- Asset Accounting
+• Copying chart of depreciation
+• Assigning chart of depreciation to company code
+• Specify account determination
+• Create screen layout rules
+• Creating asset classes
+• Depreciation area and use of Depreciation area
+• Maintain asset master records (Create /Change /Display)
+• Acquisition of asset
+• Running depreciation
+• Manual depreciation and unplanned depreciation
+• Retirement of asset
+• Transfer of asset INTA and INTERNAL
+• Scraping of an asset
+• Depreciation postings
+• Reports on asset accounting
+• Asset explorer
+11:- New GL Accounts
+• Configuring new GL
+• Document splitting (Active, Passive, and Zero Balance)
+• Configuring leading and non-leading ledger
+12:- Financial statement versions
+• Configuration of FSV
+• FSV and their use in company’s report on IFRS and GAAP both
+13:- Closing down procedures and Reports with Information System
+Controlling
+1:- General Controlling
+• Maintaining control area settings
+• Assign controlling area to Company code
+• Maintaining number ranges for controlling documents
+• Activating controlling indicators
+ 2:- Cost Element Accounting
+• Creating various types of cost elements
+• Creating primary cost element
+• Creating secondary cost element
+• Automatic and Manual creation of cost elements
+ 3:- Cost center accounting
+• Creating cost centre hierarchy
+• Creating cost centre
+• Creating activity types
+• Reports of cost centers
+ 4:- Profit Center Accounting
+• Creating profit center
+• Creating dummy profit center
+• Creating profit center hierarchy
+• Assigning profit center to cost center
+• Reports on profit center
+
 
 ## Online Editor
 
